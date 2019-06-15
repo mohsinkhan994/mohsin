@@ -15,7 +15,7 @@ public class xyz
 	   break;  
     default:System.out.println("Not in 10, 20 or 30");  
     }
-    System.out.println("i also made changes");  
+    System.out.println("i didnot changes");  
 }  
 }  
 
