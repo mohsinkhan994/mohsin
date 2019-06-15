@@ -14,7 +14,8 @@ public class xyz
     case 30: System.out.println("30");
 	   break;  
     default:System.out.println("Not in 10, 20 or 30");  
-    }  
+    }
+    System.out.println("i made changes");  
 }  
 }  
 
